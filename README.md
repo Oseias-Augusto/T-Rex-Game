@@ -1,1 +1,1 @@
-<h1 align="center">Semana De Treino</h1>
+<h1 align="center">Núcleo de Prática em Programação (N.P.P)</h1>
