@@ -1,3 +1,1 @@
-<h1 aling="center">
-  Semana de Treino
-</h1>
+<h1 align="center">Meu Projeto</h1>
